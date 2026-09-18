@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://video-to-audio.correia95.workers.dev/sitemap.xml

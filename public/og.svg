@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0a1218" />
+  <text x="90" y="140" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="72" font-weight="800" fill="#e8eef2" letter-spacing="-1">Video to Audio</text>
+  <text x="90" y="192" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="27" fill="#93a4b2">Extract the audio track from any video</text>
+  <rect x="90" y="260" width="280" height="200" rx="8" fill="#172531" stroke="#223140" stroke-width="2"/>
+  <path d="M230 320l50 40-50 40z" fill="#38bdf8"/>
+  <path d="M400 360h100" stroke="#38bdf8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M470 330l30 30-30 30" fill="none" stroke="#38bdf8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#38bdf8">
+    <rect x="560" y="330" width="4" height="20"/><rect x="580" y="310" width="4" height="60"/><rect x="600" y="320" width="4" height="40"/>
+    <rect x="620" y="300" width="4" height="80"/><rect x="640" y="325" width="4" height="30"/><rect x="660" y="315" width="4" height="50"/>
+    <rect x="680" y="335" width="4" height="10"/>
+  </g>
+  <text x="90" y="590" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="22" fill="#93a4b2">No upload · no sign-up · free</text>
+</svg>
